@@ -1,5 +1,5 @@
 public class EvenDigitSum {
-    ublic static int getEvenDigitSum(int number){
+    public static int getEvenDigitSum(int number){
 
         if (number < 0){
             return -1;
